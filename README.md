@@ -6,7 +6,7 @@
 
 ## Description
 
-Search or Create Terraform backend resources on AWS
+Search or Create Terraforhm backend resources on AWS
 
 <!-- action-docs-description source="action.yml" -->
 
